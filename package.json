@@ -10,7 +10,7 @@
   "author": "Andy Gregorowicz <andy@mitre.org>",
   "license": "Apache 2.0",
   "dependencies": {
-    "fibers": "^1.0.15",
+    "fibers": "^5.0.1",
     "mongodb": "^2.2.11"
   },
   "devDependencies": {
